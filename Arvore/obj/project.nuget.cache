@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uoMSjsQBJwV08nPtrzGGPRgL/3S0vOaSImzW77WTWH7HRy2bhnuYF23EevP1WMJIMLhX4LFZpvUgL6hYpqZmZQ==",
+  "dgSpecHash": "wztAfkiCgEQ=",
   "success": true,
   "projectFilePath": "F:\\repo\\fsharp\\Arvore\\Arvore\\Arvore.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alleq\\.nuget\\packages\\fsharp.core\\7.0.401\\fsharp.core.7.0.401.nupkg.sha512"
+    "C:\\Users\\alleq\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
   ],
   "logs": []
 }

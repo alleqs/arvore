@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Arvore")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31f371f2baa9b904e4c70afafc6eab953caa689")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Arvore")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Arvore")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
